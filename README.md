@@ -42,4 +42,4 @@ Employees can scan the order receipt barcode, review the purchased items, and ve
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/MarketStaffApp.git
+   git clone https://github.com/Giozera04/MarketCashRegisterStaff.git
